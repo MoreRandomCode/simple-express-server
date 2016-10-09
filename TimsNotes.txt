@@ -1,0 +1,21 @@
+to run
+
+node server.js
+
+
+can also use 
+
+nodemon
+
+install 
+npm install -g nodemon
+
+then
+
+nodemon server.js
+
+will restart the express server when you change the server.js
+
+(its a bit like watchify)
+
+
